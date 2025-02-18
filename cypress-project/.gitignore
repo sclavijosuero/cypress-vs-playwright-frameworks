@@ -1,0 +1,6 @@
+# Cypress generated files
+/cypress/videos/
+/cypress/screenshots/
+
+# Node.js dependencies
+/node_modules/
